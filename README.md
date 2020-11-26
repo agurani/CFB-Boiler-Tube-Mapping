@@ -16,3 +16,5 @@ The mapping determines how the attributes of these tube thicknesses vary accordi
 This effective visualization helps CFB Boiler Operators analyze and reason about data and evidence. It makes complex data more accessible, understandable and usable. CFB Boiler Operators may have particular analytical tasks, such as making comparison of internal circulation inside the combustion chamber.
 
 
+<a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/LScreen.png" align="left" height="334" width="187" ></a> 
+<a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3882.PNG" align="left" height="334" width="187" ></a> <br/>
