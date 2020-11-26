@@ -16,5 +16,5 @@ The mapping determines how the attributes of these tube thicknesses vary accordi
 This effective visualization helps CFB Boiler Operators analyze and reason about data and evidence. It makes complex data more accessible, understandable and usable. CFB Boiler Operators may have particular analytical tasks, such as making comparison of internal circulation inside the combustion chamber.
 
 
-<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20RearWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="334" width="187" ></a> 
-<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20FrontWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="334" width="187" ></a> <br/>
+<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20RearWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="400" width="400" ></a> 
+<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20FrontWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="400" width="400" ></a> <br/>
