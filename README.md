@@ -17,4 +17,6 @@ This effective visualization helps CFB Boiler Operators analyze and reason about
 
 
 <a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20RearWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="350" width="350" ></a> 
-<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20FrontWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="350" width="350" ></a> <br/>
+<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20FrontWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="350" width="350" ></a> 
+<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20LeftWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="350" width="350" ></a> 
+<a href="url"><img src="https://github.com/agurani/CFB-Boiler-Tube-Mapping/blob/main/13500%20RightWall%20Tube%20Thicknesses%20Visualization.JPG" align="left" height="350" width="350" ></a> <br/>
