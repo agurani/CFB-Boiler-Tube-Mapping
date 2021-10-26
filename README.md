@@ -7,7 +7,7 @@ CFB Boiler furnace chamber tubes thickness has been checked at different levels 
 
 Examined components are recorded in excel format for each wall. This means 160 tubes for front wall, recorded into 160 excel formatted files. And each file has 1000 data of tube thickness. These measurements are taken also for left wall (which has 80 tubes), rear wall (160 tubes) and right wall (80 tubes).
 
-This application implemented to furnace chamber walls of CFB boiler at different levels. For each level there are 480 excel files which include 1000 thickness or more data in each file.
+This application implemented to furnace chamber walls of CFB boiler at different levels. For each level there are 480 excel files which include 1000 thickness points  or more data for each pipe in each excel file.
 
 For evaluating of this bulky data, a python code is written to collect all data in suitable format from each tube excel file.
 
